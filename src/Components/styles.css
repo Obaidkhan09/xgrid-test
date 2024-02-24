@@ -1,0 +1,17 @@
+.bodyC {
+    margin: 2rem;
+};
+h3 {
+    background-color: aqua;
+    margin: 0.5, 0 rem;
+    text-align: center;
+}
+.tableComplete {
+    margin: 2rem;
+    width :  95%;
+    height: 90%;
+}
+.status {
+    width: 12px !important;
+    text-transform: capitalize
+}
