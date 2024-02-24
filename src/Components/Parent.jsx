@@ -316,6 +316,7 @@ const Parent = () => {
                                                     padding="none"
                                                 >
                                                     {row.title}
+                                                    <div>0300-0000000</div>
                                                 </StyledTableCell>
                                                 <StyledTableCell align="right">
                                                     {row.title}
